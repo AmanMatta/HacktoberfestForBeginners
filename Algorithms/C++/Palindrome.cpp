@@ -16,7 +16,7 @@ int main()
 		rev=rev*10 + rem;
 		num=num/10;
 	}
-	if(rev==orig)  // check if original number is equal to its reverse
+	if(rev==orig)  // check if original on reversing is equal to original
 	{
 		cout<<"A Palindrome";
 	}
